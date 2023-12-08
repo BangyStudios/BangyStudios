@@ -1,5 +1,13 @@
-### Hi there 👋
-![1BADDFE3-44B9-4D7B-9DE0-5098B5533635](https://github.com/BangyStudios/BangyStudios/assets/88018736/6481bfa3-ae1f-4a6a-a193-2719d8e71bd7)
+### Hey guys Bangy here 👋
+I’m a 21 year old student from Brisbane, Australia, currently studying and researching computer science, specializing in deep learning, artificial intelligence and embedded systems.
+
+![E0452607-4CE8-4824-9D6C-F4C84E428329](https://github.com/BangyStudios/BangyStudios/assets/88018736/446c874a-347a-42ff-a11a-3b508601a8b6)
+
+Art has been one of my favourite hobbies ever since high school, and it’s something that I’ve been virgorously trying to improve on. I’ve always had deep emotional connections with aesthetic backgrounds and cute characters, and endeavour to remove the necessary technical barriers so I can share them with the world!
+
+![bangystudios-channel_art-v2 4](https://github.com/BangyStudios/BangyStudios/assets/88018736/d3cca047-5b14-4cbc-aacf-21510f0421e9)
+
+Anywho, you may find my social links, code, art and blog posts via my landing page [here](https://www.bangystudios.com)!
 
 <!--
 **BangyStudios/BangyStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
