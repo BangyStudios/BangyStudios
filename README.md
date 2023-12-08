@@ -1,4 +1,5 @@
 ### Hi there 👋
+![1BADDFE3-44B9-4D7B-9DE0-5098B5533635](https://github.com/BangyStudios/BangyStudios/assets/88018736/6481bfa3-ae1f-4a6a-a193-2719d8e71bd7)
 
 <!--
 **BangyStudios/BangyStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
