@@ -1,11 +1,9 @@
 ### Hey guys Bangy here 👋
 I’m a 21 year old student from Brisbane, Australia, currently studying and researching computer science, specializing in deep learning, artificial intelligence and embedded systems.
 
-![33F61C2C-27F4-4839-AB60-127545D1F9DB](https://github.com/BangyStudios/BangyStudios/assets/88018736/2478b549-08b2-41ee-9b5b-d030f4a449ad)
+![bangystudios-channel_art-v2 4](https://github.com/BangyStudios/BangyStudios/assets/88018736/d3cca047-5b14-4cbc-aacf-21510f0421e9)
 
 Art has been one of my favourite hobbies ever since high school, and it’s something that I’ve been virgorously trying to improve on. I’ve always had deep emotional connections with aesthetic backgrounds and cute characters, and endeavour to remove the necessary technical barriers so I can share them with the world!
-
-![bangystudios-channel_art-v2 4](https://github.com/BangyStudios/BangyStudios/assets/88018736/d3cca047-5b14-4cbc-aacf-21510f0421e9)
 
 Anywho, you may find my social links, code, art and blog posts via my landing page [here](https://www.bangystudios.com)!
 
