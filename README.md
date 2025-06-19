@@ -1,5 +1,5 @@
 ### Hey guys Bangy here 👋
-I’m a software engineer and illustrator from Brisbane, Australia, currently studying and researching computer science, specializing in deep learning, artificial intelligence and embedded systems.
+Most of the good stuff is in private repos 😉
 
 You can find my social links, code, art and blog posts via my landing page [here](https://www.bangystudios.com)!
 
