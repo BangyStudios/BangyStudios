@@ -1,8 +1,8 @@
 ### Hey guys Bangy here 👋
 #### Here are some facts about me
-* I'm a software engineer - like the bald alien from prometheus.
-* I'm becoming a doctor in computer science - this means when computers gets sick I grab my stethoscope and listen to their CPU clock cycles.
-* I struggle with math (thanks, ADHD or possibly low IQ), but I’m hopelessly obsessed with rigor, formality, and elegance. (*bows dramatically*)
+🧑🏻‍💻 I'm a software engineer.
+🧑🏻‍⚕️ I'm becoming a doctor in computer science - this means when computers gets sick I listen to their CPU clock cycles with a stethoscope.
+🤪 I struggle with math (thanks, ADHD or possibly low IQ), but I’m hopelessly obsessed with rigor, formality, elegance and 18th century Europe. (*bows dramatically*)
 * Most of my repositories are private.
 
 ---
